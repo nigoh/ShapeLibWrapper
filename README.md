@@ -1,1 +1,1 @@
-- シェープファイルの技術情報 - <https://www.esrij.com/cgi-bin/wp/wp-content/uploads/documents/shapefile_j.pdf>
+shelib - <https://www.esrij.com/cgi-bin/wp/wp-content/uploads/documents/shapefile_j.pdf>
